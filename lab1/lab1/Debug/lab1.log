@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+C:\Users\Владимир\Desktop\lab1\lab1\lab1.cpp(149,26): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Владимир\Desktop\lab1\lab1\lab1.cpp(174,27): warning C4101: exception: неиспользованная локальная переменная
+  lab1.vcxproj -> C:\Users\Владимир\Desktop\lab1\Debug\lab1.exe
